@@ -1,2 +1,36 @@
 # Nodefarm
-NodeFarm is a learning project that simulates a simple farm product marketplace. It displays product nutrients, origin country, price, quantity, and description. Built with Node.js, it helps practice backend development concepts while providing an interactive way to explore data handling and server-side rendering.
+# 🌱 NodeFarm
+
+NodeFarm is a learning project that simulates a simple farm product marketplace.  
+It displays product **nutrients, country of origin, price, quantity, and description**.  
+Built with **Node.js**, it demonstrates backend development concepts through data handling and server-side rendering.  
+
+---
+
+## 🚀 Features
+- View farm product details including nutrients and descriptions  
+- Display country of origin for each product  
+- Show product price and available quantity  
+- Practice backend development with Node.js  
+- A project for learning and simulation purposes  
+
+---
+
+## 🛠️ Tech Stack
+- **Node.js**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+---
+
+## 📖 Learning Goal
+This project was built to practice Node.js fundamentals such as:
+- Setting up a local server  
+- Reading and rendering data dynamically  
+- Understanding server-side logic  
+
+
+
+   ```bash
+   git clone <your-repo-link>
