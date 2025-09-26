@@ -12,8 +12,8 @@ Built with Node.js, it demonstrates backend development concepts through data ha
 - Display country of origin for each product  
 - Show product price and available quantity  
 - Practice backend development with Node.js  
-- A project for I used for learning and simulation purposes 
--  Run on a localhost server (127.0.0.1) at port 8000  
+- A project I used for learning and simulation purposes 
+- Run on a localhost server (127.0.0.1) at port 8000  
 
 ---
 
